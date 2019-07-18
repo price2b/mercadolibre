@@ -7,7 +7,7 @@
 [![Quality score](https://img.shields.io/scrutinizer/g/docta/mercadolibre.svg?style=flat-square)](https://scrutinizer-ci.com/g/docta/mercadolibre)
 
 This package provides a PHP Software Development Kit (unofficial) for use with
-the [MercadoLibre API], introducing some improvements to the [official version],
+the [MercadoLibre CBT API], introducing some improvements to the [official version],
 among which are the extension of the the [MercadoLibre Provider for OAuth 2.0
 Client], which in turn extends the [OAuth 2.0 client library] of the [League of
 Extraordinary Packages], a group of developers who have banded together to build
@@ -18,7 +18,7 @@ solid, well tested PHP packages using modern coding standards.
 Via [Composer](https://getcomposer.org/)
 
 ```bash
-$ composer require docta/mercadolibre
+$ composer require price2b/mercadolibre
 ```
 
 ## Documentation
